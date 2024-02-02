@@ -1,0 +1,1 @@
+A full-fledge website for a coffee shop which has been created using basic HTML, CSS, JS, JQuery and Python-Django framework. This was done when I was learning frontend and backend technologies and exploring django.
